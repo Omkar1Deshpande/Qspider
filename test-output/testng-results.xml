@@ -17,20 +17,20 @@
       <![CDATA[====createTheProduct Passed===]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-07-27T10:23:18 IST" name="Suite" finished-at="2025-07-27T10:23:54 IST" duration-ms="35683">
+  <suite started-at="2025-07-31T23:03:12 IST" name="Suite" finished-at="2025-07-31T23:03:25 IST" duration-ms="13272">
     <groups>
     </groups>
-    <test started-at="2025-07-27T10:23:18 IST" name="Test" finished-at="2025-07-27T10:23:54 IST" duration-ms="35683">
+    <test started-at="2025-07-31T23:03:12 IST" name="Test" finished-at="2025-07-31T23:03:25 IST" duration-ms="13272">
       <class name="practice.CreateProductTest">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:practice.CreateProductTest@5b247367]" started-at="2025-07-27T10:23:39 IST" name="launchBrowser" finished-at="2025-07-27T10:23:40 IST" duration-ms="1176" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:practice.CreateProductTest@1750fbeb]" started-at="2025-07-31T23:03:20 IST" name="launchBrowser" finished-at="2025-07-31T23:03:21 IST" duration-ms="834" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="loginToApp()[pri:0, instance:practice.CreateProductTest@5b247367]" started-at="2025-07-27T10:23:40 IST" name="loginToApp" finished-at="2025-07-27T10:23:45 IST" duration-ms="4458" status="PASS">
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:practice.CreateProductTest@1750fbeb]" started-at="2025-07-31T23:03:21 IST" name="loginToApp" finished-at="2025-07-31T23:03:22 IST" duration-ms="1598" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApp -->
-        <test-method signature="createTheProduct()[pri:0, instance:practice.CreateProductTest@5b247367]" started-at="2025-07-27T10:23:45 IST" name="createTheProduct" finished-at="2025-07-27T10:23:47 IST" duration-ms="2209" status="PASS">
+        <test-method signature="createTheProduct()[pri:0, instance:practice.CreateProductTest@1750fbeb]" started-at="2025-07-31T23:03:22 IST" name="createTheProduct" finished-at="2025-07-31T23:03:24 IST" duration-ms="1964" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[onTestStart]]>
@@ -40,33 +40,33 @@
             </line>
           </reporter-output>
         </test-method> <!-- createTheProduct -->
-        <test-method is-config="true" signature="logoutToApp()[pri:0, instance:practice.CreateProductTest@5b247367]" started-at="2025-07-27T10:23:47 IST" name="logoutToApp" finished-at="2025-07-27T10:23:54 IST" duration-ms="7079" status="PASS">
+        <test-method is-config="true" signature="logoutToApp()[pri:0, instance:practice.CreateProductTest@1750fbeb]" started-at="2025-07-31T23:03:24 IST" name="logoutToApp" finished-at="2025-07-31T23:03:25 IST" duration-ms="762" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutToApp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:practice.CreateProductTest@5b247367]" started-at="2025-07-27T10:23:54 IST" name="closeBrowser" finished-at="2025-07-27T10:23:54 IST" duration-ms="219" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:practice.CreateProductTest@1750fbeb]" started-at="2025-07-31T23:03:25 IST" name="closeBrowser" finished-at="2025-07-31T23:03:25 IST" duration-ms="192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- practice.CreateProductTest -->
       <class name="practice.CreateCampaignTest">
-        <test-method is-config="true" signature="opneDBConnectivity()[pri:0, instance:practice.CreateCampaignTest@14028087]" started-at="2025-07-27T10:23:18 IST" name="opneDBConnectivity" finished-at="2025-07-27T10:23:18 IST" duration-ms="11" status="PASS">
+        <test-method is-config="true" signature="opneDBConnectivity()[pri:0, instance:practice.CreateCampaignTest@5386659f]" started-at="2025-07-31T23:03:12 IST" name="opneDBConnectivity" finished-at="2025-07-31T23:03:12 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- opneDBConnectivity -->
-        <test-method is-config="true" signature="startParallelExecution()[pri:0, instance:practice.CreateCampaignTest@14028087]" started-at="2025-07-27T10:23:18 IST" name="startParallelExecution" finished-at="2025-07-27T10:23:18 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="startParallelExecution()[pri:0, instance:practice.CreateCampaignTest@5386659f]" started-at="2025-07-31T23:03:12 IST" name="startParallelExecution" finished-at="2025-07-31T23:03:12 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startParallelExecution -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:practice.CreateCampaignTest@14028087]" started-at="2025-07-27T10:23:18 IST" name="launchBrowser" finished-at="2025-07-27T10:23:20 IST" duration-ms="1652" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:practice.CreateCampaignTest@5386659f]" started-at="2025-07-31T23:03:12 IST" name="launchBrowser" finished-at="2025-07-31T23:03:14 IST" duration-ms="1805" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="loginToApp()[pri:0, instance:practice.CreateCampaignTest@14028087]" started-at="2025-07-27T10:23:20 IST" name="loginToApp" finished-at="2025-07-27T10:23:25 IST" duration-ms="4692" status="PASS">
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:practice.CreateCampaignTest@5386659f]" started-at="2025-07-31T23:03:14 IST" name="loginToApp" finished-at="2025-07-31T23:03:16 IST" duration-ms="2111" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToApp -->
-        <test-method signature="createTheCampaign()[pri:0, instance:practice.CreateCampaignTest@14028087]" started-at="2025-07-27T10:23:25 IST" name="createTheCampaign" finished-at="2025-07-27T10:23:27 IST" duration-ms="2675" status="PASS">
+        <test-method signature="createTheCampaign()[pri:0, instance:practice.CreateCampaignTest@5386659f]" started-at="2025-07-31T23:03:16 IST" name="createTheCampaign" finished-at="2025-07-31T23:03:18 IST" duration-ms="2037" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[onTestStart]]>
@@ -76,19 +76,19 @@
             </line>
           </reporter-output>
         </test-method> <!-- createTheCampaign -->
-        <test-method is-config="true" signature="logoutToApp()[pri:0, instance:practice.CreateCampaignTest@14028087]" started-at="2025-07-27T10:23:27 IST" name="logoutToApp" finished-at="2025-07-27T10:23:39 IST" duration-ms="11183" status="PASS">
+        <test-method is-config="true" signature="logoutToApp()[pri:0, instance:practice.CreateCampaignTest@5386659f]" started-at="2025-07-31T23:03:18 IST" name="logoutToApp" finished-at="2025-07-31T23:03:20 IST" duration-ms="1688" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutToApp -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:practice.CreateCampaignTest@14028087]" started-at="2025-07-27T10:23:39 IST" name="closeBrowser" finished-at="2025-07-27T10:23:39 IST" duration-ms="270" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:practice.CreateCampaignTest@5386659f]" started-at="2025-07-31T23:03:20 IST" name="closeBrowser" finished-at="2025-07-31T23:03:20 IST" duration-ms="226" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="stopParallelExecution()[pri:0, instance:practice.CreateCampaignTest@14028087]" started-at="2025-07-27T10:23:54 IST" name="stopParallelExecution" finished-at="2025-07-27T10:23:54 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="stopParallelExecution()[pri:0, instance:practice.CreateCampaignTest@5386659f]" started-at="2025-07-31T23:03:25 IST" name="stopParallelExecution" finished-at="2025-07-31T23:03:25 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopParallelExecution -->
-        <test-method is-config="true" signature="closeDBConnectivity()[pri:0, instance:practice.CreateCampaignTest@14028087]" started-at="2025-07-27T10:23:54 IST" name="closeDBConnectivity" finished-at="2025-07-27T10:23:54 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="closeDBConnectivity()[pri:0, instance:practice.CreateCampaignTest@5386659f]" started-at="2025-07-31T23:03:25 IST" name="closeDBConnectivity" finished-at="2025-07-31T23:03:25 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDBConnectivity -->
