@@ -43,7 +43,7 @@ public class CreateCampaignTest extends BaseClass{
 		CC.getText_CTargetSize().sendKeys(Target_Size);
 		CC.getText_CStatus().sendKeys(Camapaign_Status);
 		//CC.getCalendar_Date().sendKeys(jUtil.getRequiredDate(30));
-		CC.getCalendar_Date().sendKeys("28072025");
+		CC.getCalendar_Date().sendKeys("28122025");
 		
 		//5. Create Campaign
 		CC.getButton_AddCampaign().click();
